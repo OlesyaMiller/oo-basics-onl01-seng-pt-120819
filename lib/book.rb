@@ -23,7 +23,7 @@ class Book
     @paige_count
   end
   
-  
+  def genre=(genre)
   
   
   
