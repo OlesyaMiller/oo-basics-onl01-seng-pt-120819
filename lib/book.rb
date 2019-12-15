@@ -15,11 +15,11 @@ class Book
     @author
   end
   
-  def paige_count=(num)
+  def page_count=(num)
     @paige_count = num 
   end
   
-  def paige_count
+  def page_count
     @paige_count
   end
   
